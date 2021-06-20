@@ -1,0 +1,33 @@
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe.config
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.pdb
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.PopupForm.resources
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.W101RLauncherForm.resources
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Properties.Resources.resources
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.exe
+C:\Users\Jerry\Desktop\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.pdb
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe.config
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.pdb
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.PopupForm.resources
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.W101RLauncherForm.resources
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Properties.Resources.resources
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.exe
+C:\Users\Samuel\Desktop\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.pdb
+D:\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe.config
+D:\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.exe
+D:\rewritten launcher\W101RLauncher\W101RLauncher\bin\Debug\W101RLauncher.pdb
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csprojAssemblyReference.cache
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.PopupForm.resources
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Forms.W101RLauncherForm.resources
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.Properties.Resources.resources
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.GenerateResource.cache
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.csproj.CoreCompileInputs.cache
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.exe
+D:\rewritten launcher\W101RLauncher\W101RLauncher\obj\Debug\W101RLauncher.pdb
